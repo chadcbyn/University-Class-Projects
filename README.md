@@ -9,7 +9,7 @@ Each course section is organized by class code, with source files grouped by pro
 ## 📂 Repository Structure
 
 ### **CS 100 — Introduction to Programming (C Language)**
-- [p1.c](CS100/p1.c)
+- [p1.c](p1.c)
 - [p2.c](CS100/p2.c)
 - [p3.c](CS100/p3.c)
 - [p4.c](CS100/p4.c)
