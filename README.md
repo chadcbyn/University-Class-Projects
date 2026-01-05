@@ -24,6 +24,8 @@ Each course section is organized by class code, with source files grouped by pro
 ### **CS 201 — Data Structures & Algorithms**
 - [insertionSort.cpp](insertionSort.cpp)
 - [mergeSort.cpp](mergeSort.cpp)
+- [homework1.cpp](homework1.cpp)
+- [homework3.cpp](homework3.cpp)
 
 ---
 
